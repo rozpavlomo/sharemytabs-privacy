@@ -25,4 +25,4 @@ When you export tabs, a JSON file is saved locally to your computer. You choose 
 
 ## Contact
 
-If you have questions, contact rozpavlomo@gmail.com or open an issue at https://github.com/rozpavlomo/sharemytabs-privacy 
+If you have questions, contact <rozpavlomo@gmail.com> or open an issue [here](https://github.com/rozpavlomo/sharemytabs-privacy)  
