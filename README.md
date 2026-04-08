@@ -1,6 +1,3 @@
-# sharemytabs-privacy
-"Share My Tabs" privacy policy
-
 # Share My Tabs — Privacy Policy
 
 **Last updated:** April 2026
